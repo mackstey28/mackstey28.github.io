@@ -1,9 +1,0 @@
----
-layout: page
-title: Home
-permalink: /home/
----
-
-Hello! My name is Maxwell Tang. I am currently 21 years old at the time I’m writing this. Hopefully you won’t stumble upon this when I’m old with dementia. I am from New Jersey and I want to live on the West Coast. I study computer science and I fucking hate school.
-
-I’ve had various interests and hobbies over my life, and you can take a peek into all that here!

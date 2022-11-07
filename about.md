@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! My name is Maxwell Tang. I am currently 21 years old at the time I’m writing this. Hopefully you won’t stumble upon this when I’m old with dementia. I am from New Jersey and I want to live on the West Coast. I study computer science and I fucking hate school.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I’ve had various interests and hobbies over my life, and you can take a peek into all that here!

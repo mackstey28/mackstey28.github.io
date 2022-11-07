@@ -38,7 +38,12 @@ Landed on my head :/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8x-nAMZOqlw" title="bail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Dislocated my shoulder
+Dislocated my shoulder.
+
+However, this was the result:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCxjX8-7mSE" title="i am big pussy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## <ins>Future Plans</ins>
 
