@@ -49,7 +49,7 @@ However, this was the result:
 
 # Here is a list of my current moves I want to get:
 
-Breakdancing: Headspins, One hand hops, Rollback Nike, Jackhammers
+Breakdancing: Headspins, One hand hops, Rollback Nike, Jackhammers, Shoulder Spin
 
 Tricking: Roundoff backflip, Roundoff sideflip, Corkscrew
 
@@ -61,9 +61,9 @@ Tricking: B-kick, Aerial
 
 # Here are moves I am currently grinding (or plan on):
 
-Breakdancing: Handstand, Headspins, Rollback handstand
+Breakdancing: Handstand, Headspins, Rollback handstand, Shoulder Spin(?), No hand headstand
 
-Tricking: B-twist, Front handspring, Back handspring, Webster 180
+Tricking: B-twist, Front handspring, Back handspring, Webster 180, Cheat Gainer
 
 ## <ins>RPI Breakdancing Club</ins>
 

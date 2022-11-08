@@ -30,6 +30,6 @@ Here are some videos of my juggling: (INSERT VIDEOS!)
 5 balls
 - Cascade
 
-My favorite juggling pattern is the shower.
+My favorite juggling pattern is the shower and multiplexes.
 
 My favorite jugglers are Michael Davis, Alex Barron, Thomas Dietz, and Jason Garfield.
