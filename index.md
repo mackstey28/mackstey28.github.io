@@ -10,3 +10,9 @@ Hello! My name is Maxwell Tang. I am currently 21 years old at the time I’m wr
 I’ve had various interests and hobbies over my life, and you can take a peek into all that here!
 
 ![](https://cdn.discordapp.com/attachments/897486164527829103/1039101476749979648/IMG_1944.jpg)
+
+Important Birthdays:
+Christine T: July 4
+Nishant S: Feb 18
+Colton R: Sep 15
+Aryan S: Jan 11
