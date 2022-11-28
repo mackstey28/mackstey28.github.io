@@ -13,10 +13,7 @@ I’ve had various interests and hobbies over my life, and you can take a peek i
 
 Important Birthdays:
 
-Christine T: July 4
-
-Nishant S: Feb 18
-
-Colton R: Sep 15
-
-Aryan S: Jan 11
+Christine T: July 4<br/>
+Nishant S: Feb 18<br/>
+Colton R: Sep 15<br/>
+Aryan S: Jan 11<br/>
