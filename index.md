@@ -11,8 +11,7 @@ I’ve had various interests and hobbies over my life, and you can take a peek i
 
 ![](https://cdn.discordapp.com/attachments/897486164527829103/1039101476749979648/IMG_1944.jpg)
 
-Important Birthdays:
-
+Important Birthdays:<br/>
 Christine T: July 4<br/>
 Nishant S: Feb 18<br/>
 Colton R: Sep 15<br/>
