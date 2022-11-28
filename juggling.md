@@ -12,7 +12,7 @@ I can juggle 4 balls well and can do a lot of 3 ball tricks. I am currently lear
 
 Once I get my 5 ball cascade down, I’ll learn to juggle clubs and rings.
 
-Here are some videos of my juggling: https://photos.app.goo.gl/JUaKwctNzVaKoGzE8
+You can watch videos of my juggling <ins>[here!](https://photos.app.goo.gl/JUaKwctNzVaKoGzE8)</ins>
 
 ## Current tricks I’m grinding:
 
