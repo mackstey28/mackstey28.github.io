@@ -30,17 +30,7 @@ In case you don’t know what tricking is, it is essentially the art of flips an
 
 I even ate shit a couple times doing backflips. I decided I will work on other skills until I can get back to the backflip. 
 
-My backflip fails:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0M2ps11_e1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Landed on my head :/
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8x-nAMZOqlw" title="bail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Dislocated my shoulder.
-
-However, this was the result:
+Here is the one day where I could do backflips:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KCxjX8-7mSE" title="i am big pussy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -51,19 +41,19 @@ However, this was the result:
 
 Breakdancing: Headspins, One hand hops, Rollback Nike, Jackhammers, Shoulder Spin
 
-Tricking: Roundoff backflip, Roundoff sideflip, Corkscrew
+Tricking: Roundoff sideflip, Cheat gainer
 
 # Here are moves I can currently do:
 
-Breakdancing: Backspin, Barrels, Munchmills, Windmill -> Headstand, Reverse shoulder spin, Double windmill, Nike, (kinda) Crickets
+Breakdancing: Backspin, Barrels, Munchmills, Windmill/Backspin -> Head/Baby/Standing/Suicide, Reverse shoulder spin, Double windmill, Nike, Crickets
 
-Tricking: B-kick, Aerial
+Tricking: B-kick, Aerial, Front handspring
 
 # Here are moves I am currently grinding (or plan on):
 
-Breakdancing: Handstand, Headspins, Rollback handstand, Shoulder Spin(?), No hand headstand
+Breakdancing: Handstand, Headspins, Rollback handstand/nike, Shoulder Spin, No hand headstand
 
-Tricking: B-twist, Front handspring, Back handspring, Webster 180, Cheat Gainer
+Tricking: B-twist, Back handspring, Webster 180, Cheat Gainer
 
 ## <ins>RPI Breakdancing Club</ins>
 

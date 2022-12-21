@@ -13,6 +13,10 @@ I’m majoring in computer science at RPI and I’m graduating in December 2022.
 - [Leetcode](https://leetcode.com/mackstey28/)<br/>
 - [Linkedin](https://www.linkedin.com/in/maxwell-tang/)<br/>
 
-I’ve interned at Raytheon and Gore in the past. Currently am looking for a full time position.
+I’ve interned at Raytheon and Gore in the past. 
+
+I have an offer from Cboe for a co-op from January 2023 to August 2023.
+
+I have a fulltime offer at BNY Mellon starting August 2023. However, it is in Pittsburgh, not NYC :( I will try to get it in NYC.
 
 I am experienced in full stack development, database systems, and automated testing/debugging.
