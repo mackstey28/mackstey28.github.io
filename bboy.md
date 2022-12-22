@@ -20,7 +20,9 @@ I’d say I’m pretty decent at it now, although my toprock and footwork suck A
 
 I want to learn headspins so badly, it’s the only move I ever wanted. Unfortunately, this damn move is so impossible. Every practice, I still try to grind it to no avail 🙁.
 
-You can watch clips of me <ins>[here!](https://www.youtube.com/channel/UCOipCB4hsmRK1SR4D1gzqMg)</ins>
+You can watch cool montages of me <ins>[here!](https://www.youtube.com/channel/UCOipCB4hsmRK1SR4D1gzqMg)</ins>
+
+You can check out all my clips I record <ins>[here!](https://photos.app.goo.gl/xNtokPf35SZmQEL37)</ins>
 
 ## <ins>Current Tricking Progress</ins>
 
@@ -61,5 +63,3 @@ I am the founder and president/captain of the RPI Breakdance Club since Spring 2
 
 Here is our club trailer (starring me, Colton, and Eymon!):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjCrZMscb_I" title="RPI Breakdance Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-You can check out all my clips <ins>[here!](https://photos.app.goo.gl/xNtokPf35SZmQEL37)</ins>
