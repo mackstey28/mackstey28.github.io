@@ -35,4 +35,6 @@ I loved using Hammer Editor (the map editing software used for Source games like
 
 I especially love the brutalist architecture style. It is just so cool to me, and I want to make a map using brutalism. This will be a future goal of mine! I think I may implement it in Blender, but I first need to learn to use that damn software first.
 
-Secret: I am currently working on a jump map! It is brutalist style, just the way I like it. Shhh!
+Secret: I am currently working on a jump map! It is brutalist style, just the way I like it. It's called jump_lumon ;) 
+
+Shhh!
