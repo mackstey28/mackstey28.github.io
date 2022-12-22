@@ -14,7 +14,7 @@ I had to write a paper on different styles of dance. One of the styles I wrote a
 
 I was amazed at the speed he goes, and from that moment I decided to learn to bboy.
 
-# <ins>Current Breakdancing Progress</ins>
+## <ins>Current Breakdancing Progress</ins>
 
 I’d say I’m pretty decent at it now, although my toprock and footwork suck ASS.
 
@@ -36,6 +36,12 @@ Here is the one day where I could do backflips:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KCxjX8-7mSE" title="i am big pussy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## <ins>RPI Breakdancing Club</ins>
+
+I am the founder and president/captain of the RPI Breakdance Club since Spring 2022.
+
+Here is our club trailer (starring me, Colton, and Eymon!):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjCrZMscb_I" title="RPI Breakdance Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <ins>Future Plans</ins>
 
@@ -56,10 +62,3 @@ Tricking: B-kick, Aerial, Front handspring
 Breakdancing: Handstand, Headspins, Rollback handstand/nike, Shoulder Spin, No hand headstand
 
 Tricking: B-twist, Back handspring, Webster 180, Cheat Gainer
-
-## <ins>RPI Breakdancing Club</ins>
-
-I am the founder and president/captain of the RPI Breakdance Club since Spring 2022.
-
-Here is our club trailer (starring me, Colton, and Eymon!):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pjCrZMscb_I" title="RPI Breakdance Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
