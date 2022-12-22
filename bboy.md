@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Breakdancing and Tricking
+title: Breakdancing
 permalink: /breaking/
 ---
 
