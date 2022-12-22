@@ -34,6 +34,8 @@ My favorite sport is volleyball but I suck at it. I also enjoy biking and I lift
 
 I want to get better at cooking! I also want to brush up on my Mandarin and Spanish.
 
+I hate the cold and winters, so I want to live in the west coast when I'm older.
+
 If you want to contact me: <br/>
 [Instagram](https://www.instagram.com/mackstey28/)<br/>
 [Facebook](https://www.facebook.com/profile.php?id=100007129966091)
