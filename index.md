@@ -19,5 +19,6 @@ Aryan S: Jan 11<br/>
 Colton R: Sep 15<br/>
 Christine T: July 4<br/>
 Nishant S: Feb 18<br/>
+Sebastian C: July 5<br/>
 
 <ins>[Also look!](https://photos.app.goo.gl/1qGEq9ydgkJgX3Ht8)</ins>
