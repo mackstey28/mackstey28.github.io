@@ -8,7 +8,7 @@ layout: home
 
 Hello! My name is Maxwell Tang. I am currently 21 years old at the time I’m writing this. I am from New Jersey.
 
-I am a software engineer (yawn) and B-Boy in New York City. 
+I am a software engineer (yawn) and B-Boy in (hopefully soon) New York City. 
 
 I’ve had various interests and hobbies over my life, and you can take a peek into all that here!
 
