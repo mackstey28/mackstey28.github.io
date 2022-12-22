@@ -62,4 +62,4 @@ I am the founder and president/captain of the RPI Breakdance Club since Spring 2
 Here is our club trailer (starring me, Colton, and Eymon!):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjCrZMscb_I" title="RPI Breakdance Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can check out my practice diary and progressions <ins>[here!](https://docs.google.com/document/d/1F7S9t0ZoN6XS3GMHmLn_EPwnPkEybcaS5-FC34gEakk/edit)</ins>
+You can check out all my clips <ins>[here!](https://photos.app.goo.gl/xNtokPf35SZmQEL37)</ins>
