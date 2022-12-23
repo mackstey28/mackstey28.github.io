@@ -18,12 +18,14 @@ Here are all the TF2 maps I’ve made to:
 &emsp;[jump_sink_b4](https://tempus.xyz/maps/jump_sink_b4)<br/>
 &emsp;[jump_triplepre_b8](https://tempus.xyz/maps/jump_triplepre_b8)<br/>
 &emsp;[jump_moria_b6](https://tempus.xyz/maps/jump_moria_b6)<br/>
+&emsp;[jump_auga_final](https://tempus.xyz/maps/jump_auga_final)<br/>
 
 Here are all the TF2 maps I've collaborated in:
 
 &emsp;[jump_academy_2_rc8](https://jumpacademy.tf/maps/academy2/rc8)<br/>
 &emsp;[jump_corona_v2](https://tempus.xyz/maps/jump_corona_v2)<br/>
 &emsp;[jump_chasm_final](https://tempus.xyz/maps/jump_chasm_final)<br/>
+&emsp;[jump_camp_rc2](https://tempus.xyz/maps/jump_camp_rc2)<br/>
 
 My favorite jump maps were jump_apex, jump_vex, jump_valley, and jump_sync.
 
