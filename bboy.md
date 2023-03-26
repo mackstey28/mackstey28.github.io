@@ -47,15 +47,15 @@ Here is our club trailer (starring me, Colton, and Eymon!):
 
 # Here is a list of my current moves I want to get:
 
-Breakdancing: Headspins, One hand hops, Rollback Nike, Jackhammers, Shoulder Spin
+Breakdancing: Headspins, One hand hops, Rollback Nike, Jackhammers, Shoulder Spin, Head Hollowback
 
 Tricking: Roundoff sideflip, Cheat gainer
 
 # Here are moves I can currently do:
 
-Breakdancing: Backspin, Barrels, Munchmills, Windmill/Backspin -> Head/Baby/Standing/Suicide, Reverse shoulder spin, Double windmill, Nike, Crickets
+Breakdancing: Backspin, Barrels, Munchmills, Windmill/Backspin -> Head/Baby/Standing/Suicide, Reverse shoulder spin, Double windmill, Nike, Crickets, Scissor Handhops
 
-Tricking: B-kick, Aerial, Front handspring
+Tricking: B-kick, Aerial, Front handspring, Cheat Gainer, Helicoptero
 
 # Here are moves I am currently grinding (or plan on):
 
